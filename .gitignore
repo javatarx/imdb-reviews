@@ -216,3 +216,6 @@ pip-selfcheck.json
 .idea
 # End of https://www.gitignore.io/api/python,pycharm,virtualenv
 *.pyc
+
+.DS_Store
+data/.DS_Store
